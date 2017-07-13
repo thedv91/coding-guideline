@@ -1,0 +1,11 @@
+{
+    "root": "./",
+    "title": "API Common Guideline",
+    "language": "en",
+    "plugins": ["disqus"],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "guideline-1"
+        }
+    }
+}
