@@ -1,7 +1,7 @@
 {
     "root": "./",
     "title": "API Common Guideline",
-    "language": "en",
+    "language": "vi",
     "plugins": ["disqus"],
     "pluginsConfig": {
         "disqus": {
