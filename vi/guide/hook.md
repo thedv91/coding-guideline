@@ -21,7 +21,7 @@ module.exports = {
 ```
 >*Ý nghĩa: Giúp cho việc xử lý logic trở nên tường minh và chặt chẽ hơn.*
 
-- Nên bind các giá trị vào mỗi route và có thể lấy ra từ `params`
+- Nên bind các giá trị thể hiện cho mỗi object vào route và có thể lấy ra từ `params`
 
 Ex: url `/room/:roomId/message`
 
