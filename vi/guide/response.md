@@ -15,7 +15,7 @@ Cách 2: Chỉ lấy về đúng các trường theo định nghĩa, tránh vi�
 
 __*Nhược điểm*__
 
-Cách 1: Sẽ khó khăn trong việc lọc và loại bỏ dữ liệu lồng nhau
+Cách 1: Sẽ khó khăn trong việc lọc và loại bỏ dữ liệu lồng nhau, dễ bị dư thừa dữ liệu
 
 Cách 2: Khi Model thay đổi thì pattern schema cũng phải thay đổi theo
 
